@@ -1,0 +1,24 @@
+# IDE settings
+.idea/
+nbproject/
+.vscode/
+
+# Build & output folders
+build/
+dist/
+out/
+
+# Generated files
+build.xml
+manifest.mf
+
+# External libraries (JARs)
+mysql-connector-java-8.0.16.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.iml
