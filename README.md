@@ -1,23 +1,10 @@
 \# 🏢 MLM System - 4 Level Multilevel Marketing Platform
 
 
-
-!\[Java](https://img.shields.io/badge/Java-17+-orange)
-
-!\[MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-
-!\[JDBC](https://img.shields.io/badge/JDBC-Connect-green)
-
-!\[Console App](https://img.shields.io/badge/Console-Application-purple)
-
-
-
 A complete \*\*Multilevel Marketing System\*\* with 4-level hierarchy and automatic profit distribution. Built with \*\*Java, MySQL, and JDBC\*\* for college final-year projects.
 
 
-
 \## 🌟 \*\*Features\*\*
-
 
 
 \### ✅ \*\*Core MLM Features\*\*
